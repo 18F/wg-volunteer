@@ -1,0 +1,22 @@
+---
+full_name: Volunteering Working Group
+name: volunteer
+type: docs
+owner_type: working-group
+status: active
+stage: alpha
+testable: false
+description: >
+  Organize and support 18F volunteering in the community.  
+links:
+- url: https://pages.18f.gov/wg-volunteer/
+  text: 18F Volunteering Working Group
+- url: https://docs.google.com/document/d/1UnlUMCREwfYcAeJRyuMhmFruLwaJQ8v8eMtGPtKVB04/edit#
+  text: Notes and Goals
+licenses:
+  wg-volunteer:
+    name: Public Domain (CC0)
+    url: https://creativecommons.org/publicdomain/zero/1.0/ 
+team:
+- github: gbinal
+  role: lead
